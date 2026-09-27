@@ -1,8 +1,0 @@
-{
-    "project": "StrikeCore",
-    "version": "Beta 0.1",
-    "build": "GitHub Actions",
-    "termux_required": false,
-    "ubuntu_required_on_phone": false,
-    "artifact": "APK"
-}
